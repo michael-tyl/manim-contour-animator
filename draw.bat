@@ -1,0 +1,1 @@
+manim -pqh --disable_caching out.py Draw

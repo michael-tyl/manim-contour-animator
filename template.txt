@@ -1,0 +1,5 @@
+from manim import *
+
+# Returns a list of the graphs drawing the edges
+# weight: used for the stroke_width of the lines
+def edge_drawing(weight):
